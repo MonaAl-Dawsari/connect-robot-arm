@@ -13,15 +13,15 @@ Go to [smart method repo](https://github.com/smart-methods/arduino_robot_arm/tre
 ![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/p1.PNG) 
 * Second import the parts starting with the base 
 ![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/p2.PNG) 
-* After but the base on the correct posion import the second part wich is the Waist, the align the past on the proper position 
+* After put the base on the correct posion import the second part wich is the Waist, then align the past on the proper position 
 ![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/p3.PNG )
 * Now it is time for Arm 1 prat, import it and put it on the above the previous, make sure to Use proper alignment
 ![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/p4.PNG ) 
-* To merg the parts by using Tinkercad you can select all the part the click on Group icon, if you did a mistake and want to change the postion for some parts you can select it and click on ungroup icon.
-![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/group.PNG) 
 * Then connect the arm 2 part 
-
 ![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/p5.PNG) 
+* To merg the parts by using Tinkercad you can select all the part then click on Group icon, if you did a mistake and want to change the postion for some parts you can select it and click on ungroup icon.
+![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/group.PNG) 
+ 
 * Finally import and connect the the Grapper, then group all the part together. 
 
 
