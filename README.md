@@ -19,9 +19,12 @@ Go to [smart method repo](https://github.com/smart-methods/arduino_robot_arm/tre
 ![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/p4.PNG ) 
 * To merg the parts by using Tinkercad you can select all the part the click on Group icon, if you did a mistake and want to change the postion for some parts you can select it and click on ungroup icon.
 ![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/group.PNG) 
-* Finally connect the arm 2 part the the Grapper, the group all the part together. 
+* Then connect the arm 2 part 
 
 ![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/p5.PNG) 
+* Finally import and connect the the Grapper, then group all the part together. 
 
 
 ## 3- The Final result
+
+![](https://github.com/MonaAl-Dawsari/connect-robot-arm/blob/main/img/result.PNG) 
